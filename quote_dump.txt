@@ -1,0 +1,300 @@
+quote: No no no, this is not for me. I'm never going to start a business. It's insane.
+author: Peldi Guilizzoni of Balsamiq ($6MM/year)
+
+quote: That was the goal: to not have to work for other people, and to create what I wanted to create.
+author: Rob Walling, founder of Drip
+
+quote: Educate yourself about everything about business. Get that broad, universal perspective first. It doesn’t take very long.
+author: Josh Kaufman, author of The Personal MBA
+
+quote: You have to have a willingness to ask for help.
+author: Vicky Hsu, CEO of Habitica
+
+quote: The first huge win was getting the first paying customer… I literally got $5 in my Paypal account, but I was jumping around the room.
+author: Joel Gascoigne of Buffer ($19MM/year)
+
+quote: My business is set to break over $1M in revenue this year, and I am the only employee.
+author: Mike Carson of Park.io ($1.5MM/year)
+
+quote: The best decision I made was shipping my MVP even though it felt way too early.
+author: Mitch Colleran of Join It ($18K/mo)
+
+quote: Remember to talk about your company. People need to hear about what you’re doing.
+author: Shuan He of Maze Engineers ($100K/mo)
+
+quote: Learn to handle failure. It's the hardest thing, but once you get over it, nothing can stop you.
+author: Hari Krishna Dulipudi of VisaList ($700/mo)
+
+quote: Our ultimate goal is to get to ramen profitability, and be able to live off of our profits.
+author: Alexandra Persea of Burner Mail ($400/mo)
+
+quote: If you're waiting for the 'perfect time' to come along, it never will.
+author: Hiram Nuñez of Tee Tweets ($1.2K/mo)
+
+quote: Don’t listen to people who say you can’t make it work as a single founder.
+author: Colin Gray of Alitu ($3.4K/mo)
+
+quote: Don’t look to your competitors for inspiration. Get a sense of your market, but then push past it.
+author: Diony McPherson of Paperform ($26K/mo)
+
+quote: Do sales, not marketing. Even if you're giving your product away for free, start with one-on-one sales.
+author: Grey Baker of Dependabot ($11K/mo)
+
+quote: Once I hit $4,000 in monthly revenue, I quit my job to go full-time on CoderPad.
+author: Vincent Woo of CoderPad ($4MM/year)
+
+quote: We are bootstrapping, living off of our savings, and building everything ourselves
+author:  Julia Enthoven of Kapwing ($24K/mo)
+
+quote: I was profitable within the first year, making over a million in annual revenue.
+author: Christy Laurence of PLANN ($83K/mo)
+
+quote: If it's a good idea, you just have to suck it up, that it's going to get stolen.
+author: Christy Laurence of PLANN ($83K/mo)
+
+quote: It started out as just a fun side project to teach myself how to code.
+author: Tracy Osborn of WeddingLovely ($8K/mo)
+
+quote: Sell to other businesses if you can, customers that won't flinch at $200/month. Sell to people who have money!
+author: Jeff Atwood of Discourse ($120K/mo)
+
+quote: My current goal is to get 1,000 customers signed up. It can be done.
+author: Emmanuel Straschnov of Bubble ($136K/mo)
+
+quote: A good hack for surrounding yourself by influential people, if you can't do that, is reading about them.
+author: Daniel Gross of Pioneer
+
+quote: Given equal founder skill, e-commerce and mobile apps succeed much more frequently than SaaS startups do.
+author: Julian Shapiro of Bell Curve
+
+quote: I've been noticing this theme of very small moments causing very large life changes in people…
+author: Daniel Gross of Pioneer
+
+quote: Bubble has more than 100,000 users, a team of six people, and is still entirely bootstrapped.
+author: Emmanuel Straschnov of Bubble ($136K/mo)
+
+quote: The barriers for indie hackers nowadays are so low. Part of my motivation was simply not wanting to be a wantrepreneur forever!
+author: Pete Codes of Tech Press List ($620/mo)
+
+quote: You are where you are. What you do next is more important.
+author: Gary Bury of Timestastic ($28K/mo)
+
+quote: Don't worry about the technology you use — just ship the product as soon as possible.
+author: Michal Ptacek of Officelovin' ($3K/mo)
+
+quote: We offered personal demos to every single person that signed up, during which time we attracted more than 800 users.
+author: Wyatt Jozwowski of Demo ($43K/mo)
+
+quote: I'm a firm believer that almost any skill can be taught. You don't have to magically be born with it.
+author: Hamed of Al-Khabbaz Stay22 ($5K/mo)
+
+quote: If you're a programmer, you're going to need to learn (or outsource) copywriting and marketing.
+author: James Rose of Content Snare ($960/mo)
+
+quote: We bootstrapped from day one, and I'm so happy we did!
+author: Sandra Lewis of Worldwide 101 ($275K/mo)
+
+quote: It began as a personal project, so I was the only validation I needed. I just coded it and used it personally. I'm still the only full-time employee.
+author: Garth Adams of I Want That Flight ($110K/mo)
+
+quote: This business basically started as a one-man show, and even today it's still just the two of us.
+author: Michael Hebenstreit of MH Themes ($30K/mo)
+
+quote: After a couple years working corporate, I really wanted to quit my job.
+author: Gunhee Park of Populum ($70K/mo)
+
+quote: Get started with sales as soon as possible. We hackers never pay enough attention to how important sales are.
+author: Santiago Basulto of rmotr ($17K/mo)
+
+quote: I had zero experience running a website, writing professionally, coaching, or building an online audience.
+author: Jon Sherman of Practical Golf ($3K/mo)
+
+quote: I was a bit of a fanatical saver at the time. I think I still had some birthday money from my 8th birthday party in my savings account. Which is great if you want to start a business straight out of college.
+author: Andrew Elliott of GoDesignerGo ($1.5K/mo)
+
+quote: We had no one to answer to but ourselves, and that gave us the liberty to take as much time as we needed.
+author:  Sol Orwell of Examine.com ($100K/mo)
+
+quote: Focus on a problem you fully understand. Even if it's a tiny niche.
+author: Stefan Klumpp of Bugfender ($12K/mo)
+
+quote: Do it on the side. Store up enough cash in reserve and give it a go before it's too late.
+author: Mike Stott of Epic Plugins ($5K/mo)
+
+quote: Start. That means develop your product and launch it. Don't wait for it to be perfect. 
+author: Mehdi Kajbaf of Matboard and More ($170K/mo)
+
+quote: Listen to your customers! This turns them into loyal customers. And loyal customers bring you new customers.
+author: Ryan Frahm of Shoppe ($120K/mo)
+
+quote: Reach out and ask questions. You’d be surprised how many responses you get if you are candid, have integrity, and aren’t a pushy asshole about it.
+author: Om Suthar of SQRL ($1K/mo)
+
+quote: I've been self-employed for basically all of my adult life, minus a 7-week lapse in judgment right out of college.
+author: Josh Pigford of Baremetrics ($134K/mo)
+
+quote: Ship stuff. Building a product and showing no one is the easiest thing in the world.
+author: Rob Caraway of GifShare ($10K/mo)
+
+quote: Believe in what you're building! If you don't, people's negativity will rip you apart more than anything else.
+author: Ervin Kalemi of Publer ($3K/mo)
+
+quote: First think about how you're going to distribute your product, then work backwards from there.
+author: Kyle Davidson of Sourced Adventures ($125K/mo)
+
+quote: Today, creating a website is easier, marketing is becoming easier, and accepting payments is much easier.
+author: Chris Patton of Punchpass ($27K/mo)
+
+quote: I kept building sites that ultimately failed, until I built sites that didn't fail. I just learned by trial and error.
+author: Dominic Wells of Human Proof Designs ($108K/mo)
+
+quote: Spend a weekend being as idealistic as possible—you can always study and learn later, but you can’t do it the other way around.
+author: Sahil Lavingia of Gumroad ($350K/mo)
+
+quote: Getting Plutio off the ground was a challenge. While this series of failures demotivated me, they also fueled me to keep going.
+author: Leo Bassam of Plutio ($8K/mo)
+
+quote: Raise your prices. We have raised our prices three times and made more money.
+author: Ketan Anjaria of HireClub ($14K/mo)
+
+quote: If you fail, then start again, over and over, until you succeed.
+author: Luca Micheli of Customerly ($4K/mo)
+
+quote: Don't overthink it. Figure out what makes your product special and copy the rest.
+author: Evan Marshall of Plain Jane ($70K/mo)
+
+quote: Your first goal should be to get something tangible out there that people can use.
+author: Ed Vinicombe of UXClub ($450/mo)
+
+quote: Always start by working your way back to your north star—what change do you want to bring to yourself and the world?
+author: Buster Benson of 750 Words ($20K/mo)
+
+quote: Getting some initial traction is the hardest. it didn't happen overnight. But we believed in the product, so we kept going.
+author: Adrian Spiac of TranslatePress ($10K/mo)
+
+quote: Launching a SaaS is relatively easy. Making it a success is not.
+author: Malte Scholz of airfocus.io ($14K/mo)
+
+quote: Research your customers, understand their pain points, and build them something they already want.
+author: Dave Ceddia of Pure React ($3K/mo)
+
+quote: Do what you enjoy and what you are passionate about. Those are the things you’ll master.
+author: Bohumil Pokštefl of Kontentino ($51K/mo)
+
+quote: Do not plan! Do the trial and error process instead.
+author: Bohumil Pokštefl of Kontentino ($51K/mo)
+
+quote: Start charging early and don't wait until the product is ready.
+author: Manuel Frigerio of Maître ($13K/mo)
+
+quote: What really worked for me is building a small product. The big picture I have for Logojoy will take years.
+author: Dawson Whitfield of Logojoy ($70K/mo)
+
+quote: When you bootstrap your business, you keep a lot more options for a successful outcome on the table.
+author: Jan Schulz-Hofen of Planio ($110K/mo)
+
+quote: Don't have twins while trying to build a startup.
+author: Dave Child of Readable.io ($16K/mo)
+
+quote: Ideas are worth nothing unless you make it. Test your ideas quickly and keep improving.
+author: Harry Chen of Altcademy ($7K/mo)
+
+quote: Start small. When you're just getting started, make sure you get a few small wins under your belt.
+author: Moe Amaya of HTML Color Codes ($1.3K/mo)
+
+quote: Invest in your customers. Learn about them. Empathize with them. This is the most important thing you can do.
+author: Jordan Gonen of Disrupt Cards ($1.5K/mo)
+
+quote: If we were just trying to fix a problem, we would have quit 2 years ago. We're trying to right a wrong.
+author: Andrew Carpenter of Intrinio ($10K/mo)
+
+quote: Find something you love, and then just take a leap of faith.
+author: Daniella Mancini of Scribly ($14K/mo)
+
+quote: I think your biggest asset is to know yourself, to know your strengths and weaknesses.
+author: Ionut Neagu of ThemeIsle ($50K/mo)
+
+quote: Being able to make a good living from this is our version of a unicorn.
+author: Kai Brach of Offscreen Magazine ($10K/mo)
+
+quote: Not every great idea has to be inspired by the mission that ultimately sustains it.
+author: Christian Beck of UX Power Tools ($16K/mo)
+
+quote: Always start with the question of, 'What's the actual problem?'
+author: Jon Brody of Ladder ($200K/mo)
+
+quote: A lot of people want to spend a lot of time building something crazy technical or complicated. Don't.
+author: Joel Runyon of Paleo Meal Plans ($15K/mo)
+
+quote: I don't want to sound like a Nike shoe commercial, but just go do it. Just try it. That's the biggest thing.
+author: Matt Verlaque of UpLaunch ($66K/mo)
+
+quote: Bootstrap. That should be the default answer. Almost all companies are bootstrapped and should be.
+author: Jason Cohen of WP Engine ($133MM/year)
+
+quote: Be willing to try to do things your own way. You're going to fail if you try to copy the big guys.
+author: AJ of Carrd ($30K/mo)
+
+quote: Don't build stuff you don't need right away. Focus on your customer first.
+author: Eelco of Sjabloon ($1K/mo)
+
+quote: There is no single book, podcast, or program that has been the silver bullet for my success.
+author: Dmitry Dragilev of JustReachOut.io ($30K/mo)
+
+quote: Be a part of the community you want to build your products or services for.
+author: Puneet Sahalot of PowerPack ($20K/mo)
+
+quote: It's just a question of what you want. You should filter things through a rubric of what you enjoy doing.
+author: Lynne Tye of Key Values ($25K/mo)
+
+quote: Be good with asking for advice. Preface it with what your goals are, and what your circumstances are.
+author: Lynne Tye of Key Values ($25K/mo)
+
+quote: Since anything can work, take the advice that really resonates with you.
+author: Jason Cohen of WP Engine ($133MM/year)
+
+quote: Learning to code was just incredible. It let me move so much faster. You can get the idea out there and bring it to life.
+author: Matt Verlaque of UpLaunch ($66K/mo)
+
+quote: I'm thinking about my business all day long. All weekend, all night, before I go to sleep, when I wake up, in the shower, when I'm working out, always. And there's nothing wrong with that.
+author: Natalie Nagele of Wildbit
+
+quote: We're not in medicine or accounting where there's real rules to follow. There's no rules here. So we get to invent them however we want.
+author: Natalie Nagele of Wildbit
+
+quote: Always start by working your way back to your north star—what change do you want to bring to yourself and the world?
+author: Buster Benson of 750 Words ($20K/mo)
+
+quote: All it takes is a few minutes of one-to-one, human-to-human interaction for a feedback call to turn into a first sale.
+author: Asad Khan of LambdaTest ($50K/mo)
+
+quote: If there's anything valuable I learned these past few months, it’s that whatever you're struggling to do, do it in public.
+author: Othmane of 1kProjects ($600/mo)
+
+quote: I can't stress how important blogging is… my evergreen blog posts from 2013 continue to receive a lot of traffic today.
+author: Al Chen of KeyCuts ($250/mo)
+
+quote: Try making something simple first. I know everyone says it, but they say it because it’s true.
+author: Razvan Ciocanel of EpixPxls ($500/mo)
+
+quote: Not every great idea has to be inspired by the mission that ultimately sustains it.
+author: Christian Beck of UX Power Tools ($16K/mo)
+
+quote: I continued to launch and continued to flop, but I never considered giving up.
+author: Vikas Yadav of GrumpyText ($3K/mo)
+
+quote: No no no, this is not for me. I'm never going to start a business. It's insane.
+author: Peldi, founder of Balsamiq ($6MM/year)
+
+quote: My approach has always been hackish. I paid little attention to best practices.
+author: Robin Singh of E-junkie ($70K/mo)
+
+quote: Educate yourself about everything about business. Get that broad, universal perspective first. It doesn’t take very long.
+author: Josh Kaufman, author of The Personal MBA
+
+quote: Always start with the question of, 'What's the actual problem?'
+author: Jon Brody of Ladder ($200K/mo)
+
+quote: The first huge win was getting the first paying customer… I literally got $5 in my Paypal account, but I was jumping around the room.
+author: Joel Gascoigne, CEO of Buffer ($19M/year)
+
